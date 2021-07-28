@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ridho17-ind
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi Kawand
+### My Name Is Skyzo
 
-<!---
-ridho17-ind/ridho17-ind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### My Telegram Account!
+`
+Click The Button Below!!`
+   <a href="https://t.me/XFLSkyzo"><img src="https://img.shields.io/badge/Telegram%20%3F-Here-green?&style=flat-square?&logo=telegram" width=165px></a></p>
