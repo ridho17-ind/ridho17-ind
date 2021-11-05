@@ -2,6 +2,10 @@
 #### ɪ'ᴍ ᴊᴜsᴛ ᴀ ʙᴇɢɪɴɴᴇʀ ᴡʜᴏ ᴡᴀɴᴛs ᴛᴏ ʙᴇ ᴀ ɢʀᴇᴀᴛ ᴘʀᴏɢʀᴀᴍᴍᴇʀ​.
 #### sᴏ ᴘʟᴇᴀsᴇ, ɪ ɴᴇᴇᴅ ʏᴏᴜʀ sᴜᴘᴘᴏʀᴛ sᴏ ɪ ᴄᴀɴ ʙᴇ ʙᴇᴛᴛᴇʀ​.
 </p>
+
+## ᴘʀᴏꜰɪʟᴇ ᴏᴠᴇʀᴠɪᴇᴡꜱ ʜᴇʀᴇ
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
  Stats
 <p align="center"><a href="https://github.com/ridho17-ind"><img src="https://github-readme-stats.vercel.app/api?username=ridho17-ind&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/ridho17-ind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridho17-ind&theme=radical&layout=compact"></a></p> 
