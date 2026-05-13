@@ -1,11 +1,11 @@
-# Hi, I'm Ridho 👋 
+# Hi, I'm Ridho
 
-### 🚀 Digital Developer & Creative Specialist
+### Digital Developer & Creative Specialist
 Saya Ridho, Pribadi yang berdedikasi tinggi dalam mengeksplorasi dunia teknologi dan kreatif. Saya berfokus pada pengembangan otomatisasi sistem, pengelolaan tools open-source, dan penyuntingan konten visual yang estetik serta fungsional.
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### My Tech Stack & Tools
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -15,19 +15,19 @@ Saya Ridho, Pribadi yang berdedikasi tinggi dalam mengeksplorasi dunia teknologi
 
 ---
 
-### 📂 Featured Projects & Work
+### Work
 - **Automation Scripts:** Mengembangkan script efisien untuk mempermudah tugas-tugas digital repetitif.
 - **Visual Editing:** Jasa penyuntingan video dan foto dengan standar kualitas tinggi.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Ridho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridho17-ind&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridho17-ind&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IniSkyzo)
 
 ---
