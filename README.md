@@ -22,7 +22,8 @@ Saya Ridho, Pribadi yang berdedikasi tinggi dalam mengeksplorasi dunia teknologi
 ---
 
 ### GitHub Stats
-![Ridho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridho17-ind&show_icons=true&theme=radical&hide_border=true)
+![Ridho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridho17-ind&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridho17-ind&layout=compact&theme=radical&hide_border=true)
 
 ---
